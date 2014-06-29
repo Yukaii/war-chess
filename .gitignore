@@ -1,0 +1,48 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/*
+UnityGenerated/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+#Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# ============ #
+# OS generated #
+# ============ #
+
+# OSX
+.DS_Store
+.DS_Store?
+
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+*.SyncPart
+*.SyncPart.meta
+*.nosync
+._*
+Icon?
+
+# Windows
+ehthumbs.db
+Thumbs.db
+Desktop.ini
